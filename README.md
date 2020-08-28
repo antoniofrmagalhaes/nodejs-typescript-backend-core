@@ -12,7 +12,7 @@ This template provides a basic start point to build a restful application using 
 
 ##### run command
 
-\$ yarn dev:server
+\$ yarn dev
 
 #### Build Application
 
